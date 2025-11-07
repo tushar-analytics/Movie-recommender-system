@@ -63,7 +63,7 @@ streamlit run app.py
 
 This app can be deployed easily using Streamlit Cloud:
 
-📌 https://share.streamlit.io
+📌 https://movie-recommender-system-tushar.streamlit.app/
 
 ---
 
